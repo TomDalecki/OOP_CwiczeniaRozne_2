@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67675c5e-557b-41f0-84db-1d4608bda69e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AAA_OOP_CwiczeniaRozne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Brytyjczyk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/BrytyjczykDziecko.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/MaineCoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/dziedziczenie/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/dziedziczenie/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/dziedziczenie/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/dziedziczenie/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/dziedziczenie/Monkey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/equals/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/equals/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/konstruktory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/promocjaTypow/ClassExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/promocjaTypow/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Brytyjczyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/BrytyjczykDziecko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/MaineCoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/konstruktory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/promocjaTypow/ClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/promocjaTypow/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="49b75fb9-25c7-419f-a674-ae8f9c7c9b52" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DNbbHDP9173aWhqUEedx4uzoNV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.abstractClass.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dziedziczenie.Main" />
+      <module name="AAA_OOP_CwiczeniaRozne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abstractClass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractClass.Main" />
+      <module name="AAA_OOP_CwiczeniaRozne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equals.Main" />
+      <module name="AAA_OOP_CwiczeniaRozne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.abstractClass.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.equals.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67675c5e-557b-41f0-84db-1d4608bda69e" name="Changes" comment="" />
+      <created>1660542560246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660542560246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
