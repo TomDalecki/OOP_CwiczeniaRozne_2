@@ -4,76 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67675c5e-557b-41f0-84db-1d4608bda69e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Jumpable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/SomeFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparator/A_ComparatorStringSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparator/ComparatorInterfaceImplementationSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparator/ComparatorLambdaSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/Volkswagen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/VolkswagenWithVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/AnimalRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/CanSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/CanSwimRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumerator/testZajavka/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Merchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Pirate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Sailor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/theShip/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/unboundedWildcards/UnboudedWildcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/unboundedWildcards/lowerBoundWildcard/LowerBoundWildcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/unboundedWildcards/upperBoundWildcard/UpperBoundWildcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Breakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Cabriolet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Drivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Exercises/KlasaImplementujaca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Exercises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Exercises/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/GearUpDownAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/MarkerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Van.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Cabriolet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfizm/SUV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AAA_OOP_CwiczeniaRozne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AAA_OOP_CwiczeniaRozne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Brytyjczyk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/BrytyjczykDziecko.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AAA_OOP_CwiczeniaRozne/abstractClass/MaineCoon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/Brytyjczyk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/BrytyjczykDziecko.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClass/MaineCoon.java" beforeDir="false" />
-    </list>
+    <list default="true" id="67675c5e-557b-41f0-84db-1d4608bda69e" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660542560246</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1669422624621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669422624621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
